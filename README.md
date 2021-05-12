@@ -1,7 +1,7 @@
 # iplock
 Find location from ip address from termux
 
-<a href="https://ibb.co/RCfDPP3"><img src="https://i.ibb.co/4jzVMM8/iplock.jpg" alt="iplock" border="0"></a>
+<img src="https://i.ibb.co/4jzVMM8/iplock.jpg" alt="iplock" border="0">
 
 ## ABOUT TOOL :
 
